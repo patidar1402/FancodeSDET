@@ -1,5 +1,4 @@
 
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1naYJPWoG7nzRH8s32xPtFRd4BfnV80gL2kwyTPeY&s)
 # Fancode SDET Assignment Solution 
 
 This is a small automation framework for ensuring that the users in Fancode city have completed more than 50% of their tasks based on their ToDos.
@@ -7,9 +6,9 @@ This is a small automation framework for ensuring that the users in Fancode city
 ## Prerequisites
 Before using this framework, ensure that you have following installed on you machine:
 
-* Java Development Kit (JDK) ☕
+* Java Development Kit (JDK) 
 * Maven Build tool
-* Eclipse or IntelliJ any Integrated Development Environment (IDE) 💻
+* Eclipse or IntelliJ any Integrated Development Environment (IDE) 
 
 ## Getting Started ▶️
 
@@ -50,6 +49,5 @@ git clone https://github.com/patidar1402/FancodeSDET.git
 ## Acknowledgements 🤝🏻
 
  - Thanks to [JSONPlaceHolder](https://jsonplaceholder.typicode.com/) for providing the API for Testing
- - Thanks to [EmojiDb](https://emojidb.org/getting-started-emojis?user_typed_query=1&utm_source=user_search/) for the Emoticons
  - Thanks to [ReadMe.so](https://readme.so/editor) for the ReadMe Editor
 
